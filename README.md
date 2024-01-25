@@ -21,7 +21,7 @@
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun-jo&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun-jo&show_icons=true&theme=aura)
 
 
 <!--
