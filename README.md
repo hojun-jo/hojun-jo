@@ -24,7 +24,7 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun-jo&show_icons=true&theme=aura)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hojun-jo&show_icons=true&locale=en&layout=compact&theme=aura)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs?username=hojun-jo&show_icons=true&locale=en&layout=compact&theme=aura)-->
 
 <!--
 **hojun-jo/hojun-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
